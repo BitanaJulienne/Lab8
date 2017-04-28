@@ -1,10 +1,10 @@
 <style>
 body {
-	background-image: url("https://scontent.fmnl2-1.fna.fbcdn.net/v/t34.0-12/18191526_1321185874585492_699060414_n.jpg?oh=a645ffb55a29b19ca035534d8d49cc0c&oe=59053C07"); no-repeat center center fixed; 
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	background-size: cover;
+    background-image: url ("https://scontent.fmnl2-1.fna.fbcdn.net/v/t34.0-12/18191526_1321185874585492_699060414_n.jpg?oh=a645ffb55a29b19ca035534d8d49cc0c&oe=59053C07");
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+
 }
 
 img {
@@ -16,7 +16,7 @@ img {
 
 p {
   font-family: "georgia", serif;
-  color: black;
+  color: white;
   font-size: 20px; 
   text-align: justify;
   text-indent:100px;
