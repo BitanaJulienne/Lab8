@@ -1,8 +1,7 @@
 <style>
 body {
-    background-color: black;
+	background-color: black;
 }
-
 img {
   height: 103px;
   width: 399px;
@@ -29,5 +28,10 @@ p {
 
 .creds {
   text-align: right;
+}
+
+.other {
+	height: 315px;
+	width: 1351px;
 }
 </style>
